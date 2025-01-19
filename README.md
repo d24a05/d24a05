@@ -41,6 +41,5 @@ Estoy en búsqueda de oportunidades que me reten, me permitan crecer y contribui
 ### 🙍‍♂️ Connect with me:
 
 <a href="https://www.linkedin.com/in/diego-alonso-llamacponcca-pe%C3%B1a-b9a672342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="20" width="30" /></a>
-<a href="https://www.instagram.com/d24a05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="25" width="35" /></a>
 
 #
